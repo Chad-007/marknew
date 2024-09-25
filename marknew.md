@@ -1,59 +1,78 @@
-# Hacktoberfest 2024 at MITS
+# Proposal for Mitstober Fest 2024 at MITS
 
-## Overview
+## Introduction
 
-Hacktoberfest 2024 is a month-long initiative aimed at promoting open-source contributions, collaboration, and learning. This year, Muthoot Institute of Technology and Science (MITS) is hosting its own edition of Hacktoberfest, inviting students to contribute to a variety of GitHub repositories maintained by different teams within the college. Participants will have the opportunity to showcase their technical skills, collaborate on real-world projects, and be recognized for their contributions.
+This proposal outlines the plan for hosting **Mitstober Fest 2024** at **Muthoot Institute of Technology and Science (MITS)**. Mitstober Fest is part of the global Hacktoberfest initiative, aimed at encouraging open-source contributions through collaboration, learning, and hands-on project development. By organizing this event at MITS, we aim to foster an open-source culture, provide students with practical experience, and enable them to contribute to real-world projects while enhancing their technical skills.
 
-## Event Objective
+## Objective
 
-The goal of Hacktoberfest 2024 at MITS is to encourage students to engage with open-source projects while contributing to meaningful repositories. Through contributions ranging from bug fixes to feature development and documentation improvements, participants will not only enhance their coding and collaboration skills but also contribute to the broader open-source community.
+The primary objective of Mitstober Fest 2024 is to engage students in contributing to open-source repositories managed by various teams within MITS. The event seeks to empower students to make meaningful contributions to software projects, ranging from bug fixes to feature development, while helping them understand the dynamics of collaboration in the open-source community.
+
+## Event Scope
+
+Mitstober Fest 2024 will be a month-long event where students across different departments can participate. They will contribute to a range of GitHub repositories owned by MITS-based teams, with projects spanning areas such as web development, mobile apps, data science, and more. Mentors will be available throughout the event to guide participants in making impactful contributions.
+
+### Key Areas of Contribution:
+
+- Code enhancements and new feature implementation
+- Bug fixing and resolution
+- Improvements in project documentation
+- User experience and design updates
 
 ## Event Structure
 
-### 1. Open Repositories
+### 1. **Open Repositories**
 
-A selection of repositories, owned and maintained by various teams across the college, will be made available for contribution. These repositories will cover a wide range of projects, offering diverse opportunities for participants to contribute based on their interests and expertise.
+Participants will have access to a variety of open-source repositories. Each repository will come with detailed contribution guidelines, making it easier for participants to understand how and where they can contribute.
 
-### 2. Contribution Process
+### 2. **Contribution Process**
 
-- **Fork and Pull Requests (PRs)**: Any student within the college can participate by forking the repository, making meaningful contributions, and submitting pull requests.
-- **Types of Contributions**: Contributions can range from writing and improving code, adding new features, fixing bugs, or enhancing documentation. Every contribution, big or small, is valuable.
-- **Review by Maintainers**: Each repository will have 2-3 designated maintainers responsible for reviewing pull requests. These maintainers will ensure the quality and relevance of contributions and will provide feedback as necessary.
+- **Fork and Pull Requests (PRs)**: Participants will fork the repositories, make their contributions, and submit pull requests.
+- **Types of Contributions**: Contributions can range from code development and bug fixes to documentation enhancements and testing.
+- **Review by Maintainers**: Each repository will have maintainers responsible for reviewing pull requests, ensuring their quality and relevance, and providing feedback.
 
-### 3. Evaluation and Point System
+### 3. **Evaluation and Point System**
 
-Contributions will be evaluated on the following criteria:
+Contributions will be evaluated based on:
 
-- **Code Quality**: Efficient, well-structured, and maintainable code will be rewarded with higher points.
-- **Impact**: Contributions that address critical issues or add valuable features will be awarded additional points.
-- **Documentation**: Clear, comprehensive, and well-organized documentation improvements will also be recognized.
+- **Code Quality**: Well-structured, maintainable, and optimized code will be rewarded with higher points.
+- **Impact**: Submissions that address key issues or bring substantial improvements will be recognized with additional points.
+- **Documentation**: Enhancing the clarity, structure, and accessibility of documentation will be acknowledged.
 
-### 4. Leaderboard and Recognition
+### 4. **Leaderboard and Recognition**
 
-A leaderboard will be maintained to rank contributors based on the points they earn. The top contributors, as determined by the quality and impact of their contributions, will be recognized for their efforts. This leaderboard will be updated regularly to encourage healthy competition and collaboration among participants.
+A leaderboard will track the progress of participants, ranking them based on the points they earn for their contributions. This system will encourage healthy competition while rewarding those who make significant, high-quality contributions. The leaderboard will be updated regularly to keep participants motivated.
+
+### 5. **Mentorship and Support**
+
+Mentors and repository maintainers will provide ongoing support to participants. They will offer guidance on technical challenges, review contributions, and ensure participants have a positive learning experience throughout the event.
 
 ## Incentives and Rewards
 
-Participants who make the most significant contributions will not only gain recognition within the college but will also be eligible for exciting rewards. These rewards are designed to celebrate the contributions of top performers and encourage continued participation in open-source projects.
+Participants will be eligible for the following incentives:
 
-## How to Participate
+- **Certificates of Participation**: All contributors will receive certificates.
+- **Special Prizes**: Top contributors will be recognized with awards and prizes.
+- **Recognition within MITS**: The highest-ranked participants will receive public recognition within the college, celebrating their contributions to open-source projects.
 
-- **Explore Repositories**: Participants can explore the list of open repositories on the college’s GitHub organization.
-- **Submit Contributions**: After identifying a project of interest, participants can fork the repository, make their contribution, and submit a pull request for review.
-- **Contribution Review**: Contributions will be reviewed by the maintainers of the respective repositories, who will assign points based on the impact and quality of the submission.
+## Implementation Plan
 
-## Important Guidelines
+### Timeline
 
-- **Quality Over Quantity**: Participants are encouraged to focus on making valuable contributions. The quality of the pull requests will take precedence over the number of submissions.
-- **Collaboration**: Hacktoberfest promotes collaboration, and participants are encouraged to work together, seek feedback, and support each other throughout the event.
-- **Leaderboard Tracking**: The leaderboard will allow participants to track their contributions and compare their progress with their peers.
+- **Event Launch**: October 1, 2024
+- **Contribution Period**: October 1 - October 31, 2024
+- **Final Evaluation and Wrap-up**: November 1 - November 10, 2024
+- **Award Ceremony**: Mid-November 2024
 
-## Contact and Support
+### Resources Required
 
-For further information or assistance, participants can reach out to the event organizers or repository maintainers. We aim to provide guidance and ensure a smooth experience for all contributors.
+- Access to open-source repositories on GitHub
+- A system for tracking contributions and maintaining the leaderboard
+- Prizes, certificates, and awards for contributors
+- A team of mentors and maintainers to guide and review contributions
 
 ## Conclusion
 
-Hacktoberfest 2024 at MITS offers a unique platform for students to engage with open-source projects, develop their technical skills, and contribute to the global developer community. By participating in this event, students will not only gain hands-on experience but also have the chance to be recognized for their efforts and contributions.
+Mitstober Fest 2024 will provide students at MITS with a unique opportunity to engage in open-source software development, enhancing their skills while making meaningful contributions to real-world projects. This event will not only foster collaboration but also help participants build a strong foundation in open-source technologies, preparing them for future careers in tech.
 
-We look forward to the success of this event and the lasting impact it will have on our students and the open-source community.
+We are excited about the potential of Mitstober Fest 2024 to positively impact the student community and encourage long-term participation in open-source development. We look forward to working together to ensure the event's success.
